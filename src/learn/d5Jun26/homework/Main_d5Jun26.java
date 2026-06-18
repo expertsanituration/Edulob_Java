@@ -1,11 +1,9 @@
 package learn.d5Jun26.homework;
 
 
-import java.util.Scanner;
-
-public class Main {
+public class Main_d5Jun26 {
     public static void main(String[] args) {
-
+          
     }
 
     private void no_6() {
