@@ -1,0 +1,9 @@
+====================
+    BIODATA DIRI
+====================
+Nama: Hansen
+Alamat: Jl Jalan No. 4
+Umur: 0
+Hobi: Bermain game
+====================
+
