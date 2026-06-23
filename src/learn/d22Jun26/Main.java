@@ -35,6 +35,7 @@ public class Main {
                     System.out.println("LIST SELURUH BUKU");
                     System.out.println("===============\n");
                     main.showData();
+                    break;
                 case "2":
                     System.out.println("\n===============");
                     System.out.println("CARI BUKU");
@@ -89,6 +90,7 @@ public class Main {
         } catch (Exception e) {
             System.err.println("Database tidak ditemukan");
             System.err.println("Silahkan tambah data terlebih dahulu");
+            return;
         }
 
         System.out.println("\n| No |\tTahun     |\tPenulis                    |\tPenerbit                    |\tJudul Buku");
